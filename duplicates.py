@@ -1,4 +1,4 @@
-#checking and returning duplicate values in a list
+#checking and printing the duplicate values in a list
 values_list = ["a", "b", "a", "c", "d", "e", "f", "b"]
 
 duplicate_values = []
